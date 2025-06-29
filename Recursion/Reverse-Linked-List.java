@@ -1,3 +1,5 @@
+import java.util.*;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -9,7 +11,7 @@
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head) {
+    public ListNode reverseList(List head) {
         if(head==null || head.next==null){
             return head;
         }
