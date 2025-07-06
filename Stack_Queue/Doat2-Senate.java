@@ -1,3 +1,7 @@
+
+import java.util.LinkedList;
+import java.util.Queue;
+
 class Solution {
     public String predictPartyVictory(String senate) {
         Queue<Integer> radiant=new LinkedList<>();
