@@ -13,11 +13,11 @@ This repository contains my Java solutions to Data Structures and Algorithms pro
 - ✅ Two Pointers and Binary Search
 - ✅ Linked List
 - ✅ Recursion and Backtracking
-- 🔜 Trees & Graphs
-- 🔜 Dynamic Programming
-- 🔜 Trie
+- ✅Trees & Greedy
+- 🔜 Dynamic Programming & Graph
+- ✅ Trie
 - ✅ Stack and Queue
-- 🔜 Bit Manipulation
+- ✅ Bit Manipulation
 
 ---
 
