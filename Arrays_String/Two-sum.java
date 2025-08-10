@@ -10,3 +10,21 @@ class Solution {
         return new int[]{};
     }
 }
+
+
+//HashMap
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer,Integer> map=new HashMap<>();
+
+        for(int i=0;i<nums.length;i++){
+            int fixedValue=target-nums[i];
+            if(map.containsKey(fixedValue)){
+                return new int[]{map.get(fixedValue),i};
+            }
+            map.put(nums[i],i);
+        }
+        return new int[]{};
+    }
+}

@@ -1,6 +1,6 @@
 # 🚀 DSA Practice – LeetCode Solutions
 
-This repository contains my Java solutions to Data Structures and Algorithms problems from https://leetcode.com/u/heyy_aryanrai/. I'm maintaining this as part of my daily practice to improve problem-solving skills and prepare for software engineering interviews.
+This repository contains my Java solutions to Data Structures and Algorithms problems from https://leetcode.com/u/heyy_aryanrai/. I'm maintaining this as part of my daily practice to improve problem-solving skills and prepare for interviews.
 
 ---
 
@@ -14,7 +14,7 @@ This repository contains my Java solutions to Data Structures and Algorithms pro
 - ✅ Linked List
 - ✅ Recursion and Backtracking
 - ✅Trees & Greedy
-- 🔜 Dynamic Programming & Graph
+- ✅ Dynamic Programming & Graph
 - ✅ Trie
 - ✅ Stack and Queue
 - ✅ Bit Manipulation
